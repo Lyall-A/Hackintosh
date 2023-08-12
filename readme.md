@@ -30,8 +30,8 @@
     * **GPU:** [MSI GTX 1660 VENTUS XS 6GB OC](https://www.msi.com/Graphics-Card/GeForce-GTX-1660-VENTUS-XS-6G-OC)
     * **WiFi Card:** [Intel Dual Band Wireless-AC 7275](https://www.intel.com/content/www/us/en/products/sku/83635/intel-dual-band-wirelessac-7265/downloads.html)
     * **USB Cards:**
-        * [SupaHub USB Card x4 Type A, x1 Type C (unsupported with MacOS)](https://amzn.eu/d/gim95Xe)
-        * [highka USB Card x5 Type A, x2 Type C (supported with MacOS)](https://www.aliexpress.com/item/1005004603466760.html)
+        * [SupaHub USB Card x4 Type A, x1 Type C (unsupported with macOS)](https://amzn.eu/d/gim95Xe)
+        * [highka USB Card x5 Type A, x2 Type C (supported with macOS)](https://www.aliexpress.com/item/1005004603466760.html)
     * **Drives:**
         * [Crucial P5 Plus 500GB M.2](https://uk.crucial.com/ssd/p5-plus/ct500p5pssd8)
         * [Kingston A400 240GB](https://www.kingston.com/unitedkingdom/en/ssd/a400-solid-state-drive)
